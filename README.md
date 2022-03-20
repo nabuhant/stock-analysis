@@ -15,7 +15,7 @@ The table below demonstrates the run time for both scripts (original script writ
 
 |      | 2017 | 2018 |
 | :--- |:----:| :---:|
-| **Original Script**   | ![image1](/Resources/AllStockAnalysis_2017.png) | ![image3](/Resources/AllStockAnalysis_2018.png) |
+| **Original Script**   | ![image1](/Resources/OtherResources/AllStockAnalysis_2017.png) | ![image3](/Resources/OtherResources/AllStockAnalysis_2018.png) |
 | **Refactored Script** | ![image2](/Resources/VBA_Challenge_2017.PNG)    | ![image4](/Resources/VBA_Challenge_2018.PNG)    |
 
 #### Some factors that resulted in the decrease of the runtime when comparing the original and refactored script include:  
@@ -58,8 +58,8 @@ The table below demonstrates the stock performance output of both the original a
 
 |      | Original Script | Refactored Script |
 | :--- |:----:| :---:|
-| **2017** | ![image5](/Resources/AllStockAnalysisResults_2017.png) | ![image6](/Resources/VBA_ChallengeResults_2017.PNG) |
-| **2018** | ![image7](/Resources/AllStockAnalysisResults_2018.png) | ![image8](/Resources/VBA_ChallengeResults_2018.PNG) |  
+| **2017** | ![image5](/Resources/OtherResources/AllStockAnalysisResults_2017.png) | ![image6](/Resources/OtherResources/VBA_ChallengeResults_2017.PNG) |
+| **2018** | ![image7](/Resources/OtherResources/AllStockAnalysisResults_2018.png) | ![image8](/Resources/OtherResources/VBA_ChallengeResults_2018.PNG) |  
 
 For 2017, 14 out of the 15 stocks being analyzed had a return over zero with 4 stocks having a return over 100%. For 2018, only 2 stocks had a return over zero, with the lowest return being -62.6%. Overall, the performance in 2017 was better.  
   
