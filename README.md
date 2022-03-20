@@ -7,8 +7,12 @@ Steve's parents want to invest in the stock market, specifically the Daqo stock.
 
 ## 2. Results: Using images and examples of your code, compare the stock
 
-![image1](/Resources/AllStockAnalysis_2017.png)
-![image2](/Resources/VBA_Challenge_2017.PNG)
+|           | 2017  | 2018  |
+| :------------ |:---------------:| :-----:|
+| Original Code      | ![image1](/Resources/AllStockAnalysis_2017.png) | ![image3](/Resources/AllStockAnalysis_2018.png) |
+| Refactored Code      | ![image2](/Resources/VBA_Challenge_2017.PNG)        |   ![image4](/Resources/VBA_Challenge_2018.PNG) |
+
+![image1](/Resources/AllStockAnalysis_2017.png) ![image2](/Resources/VBA_Challenge_2017.PNG)
 ![image3](/Resources/AllStockAnalysis_2018.png)
 ![image4](/Resources/VBA_Challenge_2018.PNG)
 
