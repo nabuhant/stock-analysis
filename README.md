@@ -15,8 +15,8 @@ The table below demonstrates the run time for both scripts (original script writ
 
 |      | 2017 | 2018 |
 | :--- |:----:| :---:|
-| Original Script   | ![image1](/Resources/AllStockAnalysis_2017.png) | ![image3](/Resources/AllStockAnalysis_2018.png) |
-| Refactored Script | ![image2](/Resources/VBA_Challenge_2017.PNG)    | ![image4](/Resources/VBA_Challenge_2018.PNG)    |
+| **Original Script**   | ![image1](/Resources/AllStockAnalysis_2017.png) | ![image3](/Resources/AllStockAnalysis_2018.png) |
+| **Refactored Script** | ![image2](/Resources/VBA_Challenge_2017.PNG)    | ![image4](/Resources/VBA_Challenge_2018.PNG)    |
 
 #### Some factors that resulted in the decrease of the runtime when comparing the original and refactored script include:  
 **1.** The elimination of the nested *For loop* as in the code snippets below.
@@ -58,12 +58,12 @@ The table below demonstrates the stock performance output of both the original a
 
 |      | Original Script | Refactored Script |
 | :--- |:----:| :---:|
-| 2017 | ![image5](/Resources/AllStockAnalysisResults_2017.png) | ![image6](/Resources/VBA_ChallengeResults_2017.PNG) |
-| 2018 | ![image7](/Resources/AllStockAnalysisResults_2018.png) | ![image8](/Resources/VBA_ChallengeResults_2018.PNG) |  
+| **2017** | ![image5](/Resources/AllStockAnalysisResults_2017.png) | ![image6](/Resources/VBA_ChallengeResults_2017.PNG) |
+| **2018** | ![image7](/Resources/AllStockAnalysisResults_2018.png) | ![image8](/Resources/VBA_ChallengeResults_2018.PNG) |  
 
 For 2017, 14 out of the 15 stocks being analysed had a return over zero with 4 stocks having a return over 100%. For 2018, only 2 stocks had a return over zero, with the lowest return being -62.6%. Overall the performance in 2017 was better.  
   
-Based on the stock performance, especially the return value, the stocks advised for investment are ENPH and RUN. ENPH demonstareted an increase in its return of 129.5% in 2017, that droppepd to 81.9% but is still a relatively high return. RUN demonstareted an increase in its return of 5.5% in 2017, which went to increase to a return of 84.0% in 2018 (a huge improvement in comparison to 2017).
+Based on the stock performance, especially the return value, the stocks advised for investment are **ENPH** and **RUN**. **ENPH** demonstareted an increase in its return of 129.5% in 2017, that droppepd to 81.9% but is still a relatively high return. **RUN** demonstareted an increase in its return of 5.5% in 2017, which went to increase to a return of 84.0% in 2018 (a huge improvement in comparison to 2017).
 
 ## Summary
 #### The General Advantages/Disadvantages of Refactoring Code
